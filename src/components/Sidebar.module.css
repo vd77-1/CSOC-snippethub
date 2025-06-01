@@ -1,0 +1,32 @@
+.sidebar{
+    width: 250px;
+    background-color: black;
+    color:white;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.categorylist{
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.categorylist li{
+    padding: 8px 0;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+
+.categorylist li:hover{
+    background-color: rgb(92, 94, 189);
+
+}
+
+.footer{
+    font-size: 12px;
+    text-align:bottom;
+    opacity:0.6;
+    margin-top:auto;
+}
